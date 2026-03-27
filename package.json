@@ -1,0 +1,12 @@
+{
+  "name": "03-node-module-ku-hevia",
+  "version": "1.0.0",
+  "description": "TP03 ",
+  "license": "ISC",
+  "author": "Aaron Martin Ku",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

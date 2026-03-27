@@ -9,10 +9,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "ej01": "node ./ej01.js",
-    "ej02": "node ./ej02.js"
-    
+    "ej02": "node ./ej02.js",
+    "ej03": "node ./ej03.js",
+    "ej04": "node ./ej04.js",
+    "ej05": "node ./ej05.js",
+    "ej06": "node ./ej06.js",
+    "ej07": "node ./ej07.js"
+
   },
   "dependencies": {
+    "axios": "^1.13.6",
     "dayjs": "^1.11.20"
   }
 }

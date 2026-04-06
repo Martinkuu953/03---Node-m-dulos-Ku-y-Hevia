@@ -9,4 +9,3 @@ function buscarProducto(nombre) {
         }
     );
 }
-//S

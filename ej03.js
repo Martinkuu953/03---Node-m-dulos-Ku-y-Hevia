@@ -9,5 +9,3 @@ function mostrarAhora() {
     //formateada:
     console.log(ahora.format('YYYY-MM-DD HH:mm:ss'));
 }
-
-//s

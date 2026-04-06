@@ -16,7 +16,7 @@
     "ej06": "node ./ej06.js",
     "ej07": "node ./ej07.js",
     "ej08": "node ./ej08.js",
-    "ej09": "node ./el09.js"
+    "ej09": "node ./ej09.js"
 
   },
   "dependencies": {
